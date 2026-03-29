@@ -2,7 +2,7 @@ import { PublicMenuResponse } from "@/types/api";
 
 export const MOCK_MENU: PublicMenuResponse = {
   restaurantId: "1",
-  restaurantName: "La Terraza de María",
+  restaurantName: "La Terraza de Rita",
   restaurantLogo: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=100&h=100&fit=crop&crop=faces",
   currency: "€",
   categories: [
@@ -22,7 +22,7 @@ export const MOCK_MENU: PublicMenuResponse = {
           discountPrice: null,
           vatRate: 10,
           sku: "ENT-001",
-          imageUrl: "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=400&h=400&fit=crop",
+          imageUrl: "https://www.freepik.es/imagen-ia-premium/croquetas-queso-salsa_287186432.htm#fromView=keyword&page=1&position=9&uuid=fe429bc4-4d99-4582-94d2-45a26e30c053&query=Croquetas+restaurante",
           allergens: [
             { id: "a-1", code: "GLUTEN", name: "Gluten", description: "Contiene gluten", iconUrl: "", active: true },
             { id: "a-2", code: "LACTOSE", name: "Lactosa", description: "Contiene lactosa", iconUrl: "", active: true },
