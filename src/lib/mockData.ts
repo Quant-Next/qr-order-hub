@@ -22,7 +22,7 @@ export const MOCK_MENU: PublicMenuResponse = {
           discountPrice: null,
           vatRate: 10,
           sku: "ENT-001",
-          imageUrl: "https://www.freepik.es/imagen-ia-premium/croquetas-queso-salsa_287186432.htm#fromView=keyword&page=1&position=9&uuid=fe429bc4-4d99-4582-94d2-45a26e30c053&query=Croquetas+restaurante",
+          imageUrl: "https://phantom-elmundo.unidadeditorial.es/880e5bad6be5c12f3089ad4bca4de6a4/resize/646/f/webp/assets/multimedia/imagenes/2024/09/05/17255431034118.jpg",
           allergens: [
             { id: "a-1", code: "GLUTEN", name: "Gluten", description: "Contiene gluten", iconUrl: "", active: true },
             { id: "a-2", code: "LACTOSE", name: "Lactosa", description: "Contiene lactosa", iconUrl: "", active: true },
